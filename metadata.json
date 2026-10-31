@@ -1,0 +1,6 @@
+{
+  "name": "LalaAI – All-in-One Super AI",
+  "description": "Production-ready Android AI assistant application powered by Google Gemini, featuring 20 AI tools, voice assistant, phone control intents, and full Kotlin Jetpack Compose source project.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
